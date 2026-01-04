@@ -73,6 +73,8 @@ Publish the website in the given URL.
     <img src="thor.jpeg" alt="THOR" onmouseover="upDate(this)" onmouseout="undo()">
     <img src="iron.jpg" alt="IRONMAN" onmouseover="upDate(this)" onmouseout="undo()">
     <img src="doctor.jpeg" alt="DOCTOR STRANGE" onmouseover="upDate(this)" onmouseout="undo()">
+    <img src="spider.jpg" alt="SPIDERMAN" onmouseover="upDate(this)" onmouseout="undo()">
+    <img src="panther.jpg" alt="BLACK PANTHER" onmouseover="upDate(this)" onmouseout="undo()">
   </div>
 
   <script>
@@ -104,11 +106,13 @@ Publish the website in the given URL.
 </html>
 
 
+
 ```
 
 ## OUTPUT:
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/84ab1591-3019-4259-8957-bcac4ae463ae" />
+<img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/f274f28f-5a9a-4fdf-8b82-03036465048a" />
+
 
 
 ## RESULT:
